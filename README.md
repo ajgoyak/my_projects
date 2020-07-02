@@ -1,4 +1,4 @@
-## This repository houses several of my projects using various skill sets. 
+## This repository houses my projects displaying various skill sets. 
 
 ### South_Carolina_Project
 - This Jupyter Notebook showcases data segmentation, several layers of mapping/visualization, and web scraping.
